@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene 1.unity
+    guid: ed908454486311c4e802618a51463ccf
+  - enabled: 1
+    path: Assets/Scenes/Selection.unity
+    guid: 326d7690c3b4eb04fbff82c9da2c08eb
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: 40ad1010134a8424888fdfaa8dcbd184
+  - enabled: 1
+    path: Assets/Scenes/Music Room.unity
+    guid: c20630d3e2cbe974993b8334be01307c
+  - enabled: 1
+    path: Assets/Scenes/Music Room1.unity
+    guid: 42d7763624c45124d947c8485a726084
+  - enabled: 1
+    path: Assets/Scenes/Outdoor Scene.unity
+    guid: f0d8c2f925b6bf4478bc1fbc9ac154e8
+  - enabled: 1
+    path: Assets/Scenes/Painting Scene.unity
+    guid: af7a4751319537348a3d4a0ae5839bf9
+  - enabled: 1
+    path: Assets/Scenes/Park.unity
+    guid: 8516cea6cb8f9d643b9d51fe88eea23c
+  - enabled: 1
+    path: Assets/Scenes/Pool Scene.unity
+    guid: 67d75ad93d1bf0c42a96db88937f624d
+  m_configObjects: {}
